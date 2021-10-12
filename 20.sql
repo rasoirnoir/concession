@@ -1,0 +1,2 @@
+-- Afficher de tous les véhicules avec toutes leurs caractéristiques, sans afficher les id
+-- voir 19
